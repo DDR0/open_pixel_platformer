@@ -12,8 +12,10 @@ Enjoy!
 
 CHANGELOG
 ---------
+0.0.2: Windows Bugfix.
+- The engine now prints out error messages.
 
-0.0.1: Bugfix.
+0.0.1: Mac Bugfix.
 - Updated master-config.cfg, since it was pointing towards the Frogatto module instead of the OPP module.
 
 0.0.0: Initial mac release.
