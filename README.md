@@ -12,6 +12,10 @@ Enjoy!
 
 CHANGELOG
 ---------
+0.1.0: Temple level.
+- New temple tileset and objects.
+- Cloud controller.
+
 0.0.2: Windows Bugfix.
 - The engine now prints out error messages.
 
