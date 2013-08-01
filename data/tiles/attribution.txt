@@ -1,0 +1,24 @@
+angular_background: see jungle_ground
+
+cave_tiles:
+wiki page: Cave_tiles
+contributors:
+	Hapiel
+	Yaomon17
+	Ails
+	Pypebros
+	Letmethink
+	Diggyspiff 
+
+
+jungle_ground:
+wiki page: Jungle_tiles
+contributors:
+	Hapiel
+    Skeddles
+    Numberplay
+    Jim16/ user:Damian
+    Noburo/ user:Gabrielhart
+    a3um
+    Squirrelsquid
+    guima1901 
