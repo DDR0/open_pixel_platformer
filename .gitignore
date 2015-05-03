@@ -2,3 +2,5 @@ Citadel/
 hex/
 phydemo/
 .DS_Store
+*.sublime-project
+*.sublime-workspace

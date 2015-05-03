@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="15" tilewidth="32" tileheight="32" nextobjectid="3">
+ <tileset firstgid="1" name="Jungle_terrain" tilewidth="32" tileheight="32">
+  <image source="../Tiles/Jungle/Jungle_terrain.png" trans="00ffff" width="896" height="480"/>
+ </tileset>
+ <tileset firstgid="421" name="objects" tilewidth="32" tileheight="32">
+  <image source="../Tiles/Jungle/objects.PNG" trans="00ffff" width="416" height="224"/>
+ </tileset>
+ <tileset firstgid="512" name="0n7fINR" tilewidth="32" tileheight="32">
+  <image source="0n7fINR.png" trans="00ffff" width="517" height="283"/>
+ </tileset>
+ <tileset firstgid="640" name="cloud4" tilewidth="32" tileheight="32">
+  <image source="../Backgrounds/clouds/cloud4.png" trans="00ffff" width="120" height="256"/>
+ </tileset>
+ <tileset firstgid="664" name="cloud4" tilewidth="5" tileheight="5">
+  <image source="../Backgrounds/clouds/cloud4.png" trans="00ffff" width="120" height="256"/>
+ </tileset>
+ <tileset firstgid="1888" name="cloud4" tilewidth="48" tileheight="48">
+  <image source="../Backgrounds/clouds/cloud4.png" trans="00ffff" width="120" height="256"/>
+ </tileset>
+ <tileset firstgid="1898" name="cloud4" tilewidth="100" tileheight="45">
+  <image source="../Backgrounds/clouds/cloud4.png" trans="00ffff" width="120" height="256"/>
+ </tileset>
+ <layer name="bg" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJyTZGJgkBzFo3gUj+IhgAFuVh+l
+  </data>
+ </layer>
+ <objectgroup name="Objectlaag 1">
+  <object id="1" gid="877" x="458" y="49"/>
+ </objectgroup>
+ <layer name="Tilelaag 12" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBh8IIudPH15ZOobBQMHcod5nI2mSeoCADO/AdA=
+  </data>
+ </layer>
+ <layer name="Tilelaag 7" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJzzZmBgaCYS+wCxPwN+kEWkWTB12QTMI9ZtMDxczCM2HMl1H8z8DCBORxJvJ2AeTC0292VA9bcCcRsBc2CgFc1+dLMSGBkYEoE4iZFIA5HsR8aE/DUKhgYAACNkOms=
+  </data>
+ </layer>
+ <layer name="Tilelaag 11" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2DwgDhGBoZ4IE4A4kTGgXbNKBhsAAAv+QGD
+  </data>
+ </layer>
+ <layer name="l0" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJwLYmBgCADiDiScD6UDgTgYikMYiAN5aGah41wgzgHiAiLNQ3cbOg6Eqgkk0o0wvxGDiXEjITOQ7SPFPFA4daPhHDT5HiLNw6W2C8lskPwjIsyDqaUVKILiUiBmwoJJBX1QPBGI5bDgJhLNayICD7R5hOyiFqC2eTAz8QEAiUk3tA==
+  </data>
+ </layer>
+ <layer name="l1" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAdWATEi6lo3j4g3k+B/mg0vh4jA4MwEB8Asg9C8SE8+iWBaqWgOA7ILwfi3UjyQkDx20D6DhDfheJ7eMwzBao3g+IqIL8JiK8D8Rcg3gt133cg/QOH/odA/AiIH0P5CowQM5AxCAgAxW8C6VsMEP+KMGI36y8Q/wPi/1AxG6A6JaiZykCaDU3fNyDWB4oZYDEPZNY7qBv4kMRfAPFLILbHokcIGh/YgCaSn7SwK8EAoPDTx2GeK5J5bkSa5wU0yxuHeapIYZ9EhFmpQPVpQJwOxBlYzHREMo8PTQ6UDm2B9Boi3Q0DwgzYww+UDiOB9AkSzTMC4g4g9gJiYySsCxXvING8bVA9aWjmeSKZBwC8TjZ+
+  </data>
+ </layer>
+ <layer name="l2" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAE17CIkQKuIZmhxcjA8AlIfybTrI8MEP3ujBC+GyOCTS4AmYHNPYZAcSMKzaYG+AnEv6honijQT2JU9hcoXsiN06EEmIB4ChXNkwPiDUA8FWo2OmZDYjMTYV4TFG+Emo2OlZDY8kSaNw/JXFx4JxC7keA+ZLwLhzgfEeYBABkhHdM=
+  </data>
+ </layer>
+ <layer name="l3" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AU4AM8RKoLZGRgCGJEFQsF8sPQxDSAOJ4I83KB+vKAOB+IC6C4EIiLGDHVVhNhXidQXxcQdwNxDxT3AnEfFvMGKwAA4VIJTQ==
+  </data>
+ </layer>
+ <layer name="l4" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUUAOEMzIwRABxJBKOAuJoRvLMKwbqKwHiUiRcBsTlZJrXD9Q3AYgnIuFJQDyZTPPoDRqBGACHVgow
+  </data>
+ </layer>
+ <layer name="water" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjBQgjAWLIWFSgREU6wOxIZQ2QsLUBgAKuwIr
+  </data>
+ </layer>
+ <layer name="obj" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBi+YBsjA8N2RuqZdxho1hEgXkVFM0cBfcBSYJwtA+LlQLyCCvG3CWjGZiDeAsRbqWDefqAZB4D4IBAfGk1fOAEAUFYMGg==
+  </data>
+ </layer>
+ <layer name="obj2" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFgwlsZBxoFww82IsUBuuA7PUDGCa7cdi9g0Q3nQGqP4tHz1ESzbsJVH9rBKYVAF1UCFs=
+  </data>
+ </layer>
+</map>
