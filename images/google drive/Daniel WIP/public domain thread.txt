@@ -1,0 +1,32 @@
+Converting to Public Domain (cc0)
+
+Hi all,
+
+We, the OPP team have decided to try and convert all the current (and future) assets of the OPP to the public domain. More specifically, a cc0 LICENSE. https://creativecommons.org/publicdomain/zero/1.0/
+
+Until now we used the CC-BY-3.0 license, which allows the assets to be used for any purpose as long as the creators are credited. However, this has a few complications which we weren't aware of when this project started:
+
+- License improvements can't be processed. CC-BY-4.0 http://creativecommons.org/version4 came out a year ago, but we can't use it on our new assets. New work is based and mixed with old work, we can't keep those appart.
+- CC-BY 3.0 poses a technical restriction on the use of assets: You are not allowed to prevent any user from copying the assets such as encryption or DRM. This means that if you use a platform that automatically protects this, you can't use the OPP assets. For this same reason OpenGameArt created the OGA-BY 3.0 http://opengameart.org/content/oga-by-30-faq license which is identical to CC-BY 3.0 except for this restriction.
+- If your whole project is under a different license, such as pretty much all software is (open software uses GPL licenses rather than CreativeCommons), it is tricky to point out what belongs to which license.
+- We'd like to spread the OPP assets on many asset marketplaces (for free!), like the gamemaker, unity, gamesalad or gamedev stores, to further promote the OPP and increase its usage.
+
+All the problems above would be solved by putting the work in the public domain.
+
+This would also mean, that unlike with the original license, no crediting is required anymore. The OPP project will always highly recommend crediting to the users, but we would never be able to enforce this anyway.
+
+Would you agree to put the images you've contributed to the project in the public domain? Please let me know!
+If not, or if we don't hear from you, we might need to remove your assets in future packages of the project :( I will be sending out private messages to each contributor, and make a list here of people who agreed to have their OPP assets in the public domain.
+
+A final notice: I understand very very little about laws and licenses. I hope the above is kind of correct and makes sense, but if you understand this stuff better, please do advise me!
+
+People who agreed to have their OPP assets in the public domain:
+
+> Hapiel
+> Damian
+> Noburo (Gabriel)
+
+I realy hope we manage to get at least 80% of all the assets in the public domain, as I strongly believe it will make the project much more usable for game developers!
+
+Enjoy creating, and thanks for considering to convert your assets!
+- The OPP team: Damian, Gabrien, Hapiel.
